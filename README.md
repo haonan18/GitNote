@@ -1,6 +1,9 @@
 # GitNote
 
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
+> 分布式项目版本管理系统 
+> 记录每次版本更新并可以回溯
+> 多人联合远程工作
 
  ## Common Command
 
